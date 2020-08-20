@@ -1,0 +1,49 @@
+item {
+  id: 1
+  name: 'Red_Led_Off'
+}
+
+item {
+  id: 2
+  name: 'Red_Led_On'
+}
+
+item {
+  id: 3
+  name: 'Green_Led_Off'
+}
+
+item {
+  id: 4
+  name: 'Green_Led_On'
+}
+
+item {
+  id: 5
+  name: 'Blue_Led_Off'
+}
+
+item {
+  id: 6
+  name: 'Blue_Led_On'
+}
+
+item {
+  id: 7
+  name: 'Orange_Led_Off'
+}
+
+item {
+  id: 8
+  name: 'Orange_Led_On'
+}
+
+item {
+  id: 9
+  name: 'Yellow_Led_Off'
+}
+
+item {
+  id: 10
+  name: 'Yellow_Led_On'
+}
